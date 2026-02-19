@@ -1,7 +1,11 @@
 # Data_projects_TripleTen
-Projesta I worked on while attending the Triple Ten Data Analysis Bootcamp
+ProjestS I worked on while attending the Triple Ten Data Analysis Bootcamp
 
 
-PROJECT | TITLE|DESCRIPTION|
+PROJECT | TITLE|DESCRIPTION|LINK
 
-START HERE
+#1|LACEY LEGRONE 7.5| POWER BI PROJECT ANALYSISING RESTAUNT POPULATIY DATA.| 
+#2|LACEY_LEGRONE_T.T._PROJECT|TABLEAU PROJECT, CATEGORY AND SUB-CATEGORY STORE REATURN RATE ANALYSIS|
+#3|PHOTO_FROM_POWER_BI_| POWER BI APP ANAYSIS DASHBOARD|
+#4|STORYTELLINGWITHDATA5.ZIP| TABLEAU STORE RETURN RATE DATA ANALYSIS|https://public.tableau.com/shared/K2Z4RHRMM?:display_count=n&:origin=viz_share_link
+
